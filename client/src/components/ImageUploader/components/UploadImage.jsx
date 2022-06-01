@@ -65,7 +65,7 @@ export const UploadImage = function (props) {
     try {
       // , {headers: {API_KEY:'5a615ca2be415b505352dd'}}
       // Sends the file to the server side
-      const me = await axios.post('http://localhost:5000/upload', formData, {
+      const me = await axios.post('/upload', formData, {
         headers: { API_KEY: '5a615ca2be415b505352dd' },
       });
       if (!me) return;
