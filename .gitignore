@@ -133,8 +133,6 @@ dist
 # Prettier configuration
 .prettierrc
 
-README.md
-
 
 #-----------------------------------.gitignore for react--------------------------------------#
 
