@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Image Uploader}</h1>
+<h1 align="center">Image Uploader</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{image-uploader-fav-dev.herokuapp.com/}">
+    <a href="https://image-uploader-fav-dev.herokuapp.com/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/favourite-developer/Image-Uploader.git}">x
+    <a href="https://github.com/favourite-developer/Image-Uploader.git">x
       Solution
     </a>
     <span> | </span>
@@ -90,5 +90,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/favourite-developer/})
-- Twitter [@your-twitter](https://{twitter.com/_fav_dev})
+- GitHub [@your-username](https://github.com/favourite-developer/)
+- Twitter [@your-twitter](https://twitter.com/_fav_dev)
