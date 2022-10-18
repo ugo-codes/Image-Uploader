@@ -72,11 +72,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 # Clone this repository
 $ git clone https://github.com/favourite-developer/Image-Uploader.git
 
-# Install dependencies
+$ cd client
 $ npm install
+$ npm run build
+$ cd ..
 
 # Run the app
-$ npm start
+$ node app.js
 ```
 
 ## Acknowledgements
@@ -90,5 +92,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/favourite-developer/)
-- Twitter [@your-twitter](https://twitter.com/_fav_dev)
+- GitHub [@ugo-codes](https://github.com/ugo-codes)
+- Twitter [@ugo_codes](https://twitter.com/ugo_codes)
